@@ -1,0 +1,11 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.fvm/
+.pub-cache/
+build/
+
+# Visual Studio Code
+.vscode/
